@@ -42,6 +42,9 @@ npm install
 npm start
 
 Future Enhancements
+
+Basically it is like an additional feature that can be incorporated on existing websites like ktu notes .
+
 🔒 Admin Panel for managing users and event
 📊 Event Analytics to track participation and interest
 🌐 Progressive Web App (PWA) support for offline acces
