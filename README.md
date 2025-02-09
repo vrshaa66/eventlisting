@@ -45,3 +45,4 @@ Future Enhancements
 🔒 Admin Panel for managing users and event
 📊 Event Analytics to track participation and interest
 🌐 Progressive Web App (PWA) support for offline acces
+[watch the video](https://youtu.be/x9UcaEPQyIc)
